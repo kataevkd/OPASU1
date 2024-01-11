@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RESTfull.API",
+    "\\RESTfull.API\\Controllers",
+    "\\RESTfull.Domain",
+    "\\RESTfull.Domain\\Model",
+    "\\RESTfull.Infrastructure",
+    "\\RESTfull.Infrastructure\\Data",
+    "\\RESTfull.Infrastructure\\Repository"
+  ],
+  "SelectedNode": "\\RESTfull.API\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
